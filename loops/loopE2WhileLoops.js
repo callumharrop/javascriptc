@@ -13,4 +13,4 @@ while(cc != "m"){
     cc = cards[Math.floor(Math.random()*6)] ;
 }
 
-console.log(cc)
+console.log(cc) ///testing///

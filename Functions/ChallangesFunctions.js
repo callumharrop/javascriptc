@@ -89,8 +89,9 @@ const whichOne4 = (number19,number20) =>{
     if(number19 > number20){
         console.log(number19)
     }
-    else{
+    else
         console.log(number20)
     }
 }
-whichOne4()
+whichOne4(21,20)
+

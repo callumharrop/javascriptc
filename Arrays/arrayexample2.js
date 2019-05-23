@@ -1,0 +1,2 @@
+let books = ["Death on the Nile", "1984.", "The very Hungry Catapillar.","A Song of Ice and Fire.", "Charlie and the Choclate Factory."]
+console.log("I have " +books.length + " Favourite books. My 4th favourite is " +books[3])

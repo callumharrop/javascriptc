@@ -92,6 +92,17 @@ const whichOne4 = (number19,number20) =>{
     else
         console.log(number20)
     }
-}
+
+
 whichOne4(21,20)
 
+//Challange 15//
+const whichOne5 = (number21,number22) =>{
+    if(number21 < number22){
+        console.log(number21)
+    }
+    else
+        console.log(number22)
+    }
+
+whichOne5(16,20)

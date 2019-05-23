@@ -133,3 +133,10 @@ const gradeCheck = (number24) =>{
 
 
 gradeCheck(50)
+
+//Challange 19//
+const com = (string1,string2) => {
+    console.log(string1.concat(string2))
+}
+
+com("put me together"," please don't")

@@ -106,3 +106,9 @@ const whichOne5 = (number21,number22) =>{
     }
 
 whichOne5(16,20)
+
+//Challanges 16//
+const isiteven = (number23) =>{
+    return(number23 & 1) ? "odd" : "even";
+    }
+console.log(isiteven(5687))

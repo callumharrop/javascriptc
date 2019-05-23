@@ -107,8 +107,29 @@ const whichOne5 = (number21,number22) =>{
 
 whichOne5(16,20)
 
-//Challanges 16//
+//Challanges 16 and 17//
 const isiteven = (number23) =>{
     return(number23 & 1) ? "odd" : "even";
     }
 console.log(isiteven(5687))
+
+//Challanges 18//
+const gradeCheck = (number24) =>{
+    if(number24 >= 90){
+        console.log("Its and A")
+    }
+    else if(number24 >= 80){
+        console.log("Its a B")
+    }
+    else if(number24 >= 70){
+        console.log("Its a C")
+    }
+    else if(number24 >= 60)
+        console.log("Its a D")
+    }
+    {
+        console.log("press F to pay respect")
+}
+
+
+gradeCheck(50)

@@ -15,7 +15,7 @@ console.log(sum)
 let string = "jrfndklhgfndjkjlkgperfijfhidknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhiejkdsoiufghedjwsh"
 
 for (f = 0; f <string.length; f++){
-    if(cha ==  && f + 1 == "i"){
+    if(Chara ==  && f + 1 == "i"){
         console.log(f && f +1)
     }
 }

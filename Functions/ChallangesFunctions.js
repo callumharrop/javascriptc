@@ -44,12 +44,25 @@ const itsSelf = (number12) =>{
 }
 console.log(itsSelf(12))
 //Challange 10//
-//const calc = (num1,op,num2) =>{
-    //console.log(`${num1} ${op} ${num2} = ${num3}`)
-    //}
-    
+const calc = (num1,op,num2) =>{
+    if (op == "+" ){
+        console.log(`${num1} + ${num2} = ${num1 + num2}`)
+    }
+    else if (op == "-" ){
+        console.log(`${num1} - ${num2} = ${num1 - num2}`)
+    }
+    else if (op == "x"){
+        console.log(`${num1} x ${num2} = ${num1 * num2} `)
+    }
+    else if (op == "/"){
+        console.log(`${num1} divide by ${num2} = ${num1 / num2}`)
+    }
+}
+calc(4,"+",4)
+calc(5,"-",6)
+calc(6,"/",7)
+calc(10,"x",11)
 
-//calc(2,"+",2)
 
 //Challage 11//
 const whichOne = (number13, number14) =>{

@@ -9,3 +9,16 @@ for(let i = 0; i <1000; i++)
     }
 }
 console.log(sum)
+
+//Challange 2//
+
+let string = "jrfndklhgfndjkjlkgperfijfhidknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhiejkdsoiufghedjwsh"
+
+for (f = 0; f <string.length; f++){
+    if(cha ==  && f + 1 == "i"){
+        console.log(f && f +1)
+    }
+}
+
+
+//string.search(thing)

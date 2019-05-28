@@ -1,5 +1,5 @@
 let string = "is a load of words put together to create and example also iphone";
-let thing = "i";
+let thing = "ut";
 console.log(string.search(thing));
 //The .search finds the varible and tells me about of letters that come before it counting the first letter as 0//
 

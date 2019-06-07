@@ -15,10 +15,13 @@ console.log(sum)
 let string = "jrfndklhgfndjkjlkgperfijfhidknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhiejkdsoiufghedjwsh"
 
 for (f = 0; f <string.length; f++){
-    if(Chara ==  && f + 1 == "i"){
-        console.log(f && f +1)
+    if(f == "h" && f + 1 == "i"){
+        console.log(string.search("hi"))
     }
-}
+    else(f == "h" && f + 1 == "i")
+        console.log(string.lastIndexOf("hi"))
+    }
+
 
 
 //string.search(thing)
